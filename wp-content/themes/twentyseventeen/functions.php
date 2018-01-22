@@ -584,3 +584,9 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  * SVG icons functions and filters.
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
+
+function alert_js() {
+	wp_enqueue_script( 'alert_js', get_template_directory_uri().'/js/alert.js', array('jquery'), false, false );
+};
+
+add_action( 'wp_enqueue_scripts', 'alert_js' );
