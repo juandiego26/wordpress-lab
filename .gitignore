@@ -1,0 +1,33 @@
+### WordPress ###
+
+# CUSTOM FILES FOR ME
+*.log
+wp-config.php
+wp-content/languages/
+wp-content/upgrade/
+wp-includes/
+wp-admin/
+wp-content/themes/twentysixteen/
+wp-content/themes/twentyfifteen/
+wp-content/plugins/akismet/
+wp-content/themes/twentyseventeen/assets/
+wp-content/themes/storefront/assets/images/
+wp-content/themes/storefront/languages/
+wp-content/themes/storefront/screenshot.png
+wp-content/themes/platzicomes/languages/
+# END OF CUSTOM FILES
+
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+/.htaccess
+/license.txt
+/licencia.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
