@@ -11,3 +11,9 @@ License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  	storefront
 Tags:         	e-commerce, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready, rtl-language-support, footer-widgets, sticky-post, theme-options
 */
+
+.viaje_label {
+  float: left;
+  min-width: 220px;
+  font-weight: bold;
+}
