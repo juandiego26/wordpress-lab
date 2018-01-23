@@ -15,6 +15,10 @@ wp-content/themes/storefront/assets/images/
 wp-content/themes/storefront/languages/
 wp-content/themes/storefront/screenshot.png
 wp-content/themes/platzicomes/languages/
+wp-content/plugins/user-switching/
+wp-content/plugins/simple-membership/
+wp-content/plugins/restrict-content/
+
 # END OF CUSTOM FILES
 
 wp-content/advanced-cache.php
