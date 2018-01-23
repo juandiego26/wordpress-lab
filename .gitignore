@@ -44,5 +44,9 @@ wp-content/plugins/advanced-custom-fields/core/
 wp-content/plugins/advanced-custom-fields/images/
 wp-content/plugins/advanced-custom-fields/lang/
 
+# API
+app/LICENSE
+app/README.md
+
 # END OF CUSTOM FILES
 
